@@ -1,1 +1,0 @@
-# it-scm.github.io
